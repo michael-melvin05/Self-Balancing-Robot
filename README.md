@@ -8,3 +8,8 @@ The first prototype was designed to establish communication between the ESP32, M
 The robot uses a custom 3D-printed chassis and wheels to support the motors and electronics.
 
 ![Balance Bot Proof of Concept](V1_Proof-of-Concept/Images/V1_Balance_Bot_Pic.jpeg)
+
+## Version 2 
+
+Version 2 was developed to test whether the robot could recover from an external disturbance, such as being pushed near the top of the chassis.
+
