@@ -13,3 +13,6 @@ The robot uses a custom 3D-printed chassis and wheels to support the motors and 
 
 Version 2 was developed to test whether the robot could recover from an external disturbance, such as being pushed near the top of the chassis.
 
+![Balance Bot V2](V2/Images/V2-IRL.jpg)
+
+
