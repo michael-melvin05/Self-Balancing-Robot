@@ -16,3 +16,8 @@ Version 2 was developed to test whether the robot could recover from an external
 ![Balance Bot V2](V2/Images/V2-IRLs.jpg)
 
 
+## Version 3 
+
+Version 3 introduced a major mechanical redesign focused on onboard power, component packaging, and system integration. The previous versions relied on an external power connection for the stepper motors, while Version 3 added a dedicated motor battery compartment within the lower chassis.
+
+![Balance Bot V3](V2/Images/BalanceBot_V3.jpg)
