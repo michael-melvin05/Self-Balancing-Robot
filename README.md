@@ -22,6 +22,6 @@ Version 3 introduced a major mechanical redesign focused on onboard power, compo
 
 ![Balance Bot V3](V3/Images/V3IRL.jpeg)
 
-# Version 3 Electrical Schematic: 
+### Version 3 Electrical Schematic: 
 
 ![V3 Electrical Schematic](V3/Images/V3_ElectricalSchematic.png)
