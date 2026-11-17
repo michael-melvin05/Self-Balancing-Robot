@@ -1,4 +1,7 @@
 # Self-Balancing-Robot
+
+![Version 2 balance recovery](V2/Vid/V2_Demo.gif)
+
 ESP32 based self balancing robot developed to explore embedded systems, IMU sensing, stepper motor control, and feedback control.
 
 ## Version 1 — Initial Prototype
